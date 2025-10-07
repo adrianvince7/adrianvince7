@@ -46,7 +46,7 @@ programming_journey:
     clients: ["US", "UK", "Mexico", "Bangladesh", "Zimbabwe", "SADC region"]
     positioning: "Tech-forward, Microsoft-aligned, globally scalable solutions"
 ```
-
+![Snake animation](https://github.com/adrianvince7/adrianvince7/blob/output/github-contribution-grid-snake.svg)
 <!--
 **adrianvince7/adrianvince7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
